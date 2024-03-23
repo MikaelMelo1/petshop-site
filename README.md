@@ -1,12 +1,11 @@
+---
 
+---
 
+![1711217761049](image/README/1711217761049.png)
 
-
-![1711217344135](image/README/1711217344135.png) 
-
-### 
-    🚧 Petshop Site 🚧
-
+<h4 align="center"> 
+	🚧 PETSHOP SITE 🚧
 
 <p align="center">
 	<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
