@@ -2,8 +2,10 @@
 
 
 
-![1711217344135](image/README/1711217344135.png) `<h4 align="center">`
-	🚧 PETSHOP SITE 🚧`</h4>`
+![1711217344135](image/README/1711217344135.png) 
+
+### 
+    🚧 Petshop Site 🚧
 
 
 <p align="center">
