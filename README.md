@@ -49,6 +49,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  (HTML + CSS + JAVASCRIPT)
 
-- Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+- Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
 - Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Ícones:  **[Feather Icons](https://feathericons.com/)**
