@@ -2,25 +2,24 @@
 
 
 
-/* ID do body que dá permissão a exibição da barra de rolagem na página de consulta */
-#vertical{ 
+#vertical {
   min-height: initial;
   overflow: auto;
 }
 
-p{
+p {
   margin-bottom: 20px;
   font-size: 16px;
 }
 
-h1{
+h1 {
   font-size: 40px;
   font-weight: 700;
   line-height: 40px;
   margin-bottom: 20px;
 }
 
-h2{
+h2 {
   font-weight: 700;
   font-size: 18px;
   margin-top: -15px;
@@ -29,87 +28,78 @@ h2{
 }
 
 .geral {
-  margin: 16px 140px 0px 140px;  
+  margin: 16px 140px 0px 140px;
   min-height: 100vh;
 }
-
-/* Header com logo e nav 
-========================*/
-
 
 header .logo,
 header nav,
 .index-content,
 .cadastro-content,
 #consulta-content,
-.pet-image{
+.pet-image {
   width: 50%;
 }
 
 
-
-
-.wrapper{
+.wrapper {
   margin-top: 10%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.image-index img{
+.image-index img {
   width: 58%;
   height: auto;
 }
 
-.image-cadastro img{
+.image-cadastro img {
   width: 98%;
   height: auto;
 }
 
-.image-consultar img{
+.image-consultar img {
   width: 74%;
   height: auto;
 }
 
-.index-content span{
+.index-content span {
   color: #FD64A7;
 }
 
-.cadastro-content{
+.cadastro-content {
   display: flex;
   align-items: center;
   flex-direction: column;
 }
 
-.consulta-content ul li{
+.consulta-content ul li {
   margin-left: 60px;
 }
 
 
 
+.bg-form {
 
-/* Formulário de cadastro 
-=========================*/
-.bg-form{
- 
   padding: 0;
-  background-color:white;
+  background-color: white;
   display: flex;
   justify-content: center;
   border-radius: 10px;
 }
 
-form div{
+form div {
   margin: 16px;
 }
 
-label{
+label {
   display: inline-block;
   width: 120px;
   color: black
 }
 
-input{
+input {
   width: 200px;
   height: 30px;
   border-radius: 2px;
@@ -124,7 +114,7 @@ input{
 }
 
 #btn-envio input,
-#consulta-content input{
+#consulta-content input {
   display: inline-block;
   width: 98px;
   cursor: pointer;
@@ -135,17 +125,20 @@ input{
   font-weight: 700;
   border: 0;
 }
-#btn-envio input:hover{
+
+#btn-envio input:hover {
   background-color: #FFF;
   color: #2F1242;
 }
-#consulta-content input:hover{
+
+#consulta-content input:hover {
   background-color: #b048c5;
   color: #FFF;
 }
+
 #registroPet::placeholder,
 #nomePet::placeholder,
 #tipoPet::placeholder,
-#idadePet::placeholder{
+#idadePet::placeholder {
   color: rgb(red, green, blue);
 }

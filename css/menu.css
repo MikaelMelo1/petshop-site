@@ -5,14 +5,14 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-/* Navbar */
 .mobile-menu,
 .mob-menu-container,
 .mob-menu-wrap {
   display: none;
 }
+
 .navbar {
-  
+
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -23,7 +23,7 @@ body {
 .logo {
   img {
     width: 150px;
-    
+
   }
 }
 
@@ -96,16 +96,16 @@ body {
   }
 }
 
-/* Mobile Responsiveness CSS */
-
 @media only screen and (max-width: 650px) {
   .desktop-menu {
     display: none;
   }
+
   .mob-menu-container,
   .mob-menu-wrap {
     display: none;
   }
+
   .displayon {
     display: block;
   }
@@ -121,7 +121,7 @@ body {
 
     .logo img {
       width: 110px;
-      
+
     }
 
     button {
@@ -135,6 +135,7 @@ body {
       text-transform: uppercase;
     }
   }
+
   .mob-menu-container {
     background-color: rgba(255, 255, 255, 0.9);
     position: fixed;
@@ -171,12 +172,15 @@ body {
 
       .menu-items {
         margin-top: 40px;
+
         ul {
           padding: 0;
           text-align: center;
+
           li {
             list-style-type: none;
             margin: 46px 0;
+
             a {
               text-decoration: none;
               color: #000000;
@@ -199,6 +203,7 @@ body {
   .body-content {
     height: calc(100vh - 135px);
   }
+
   .footer p {
     font-size: 13px;
     z-index: -1;
